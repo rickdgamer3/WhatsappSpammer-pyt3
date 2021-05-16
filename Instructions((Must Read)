@@ -1,0 +1,12 @@
+When using the code, make sure you have installed webbrowser and pyautogui on your system.
+
+To install webbrowser on cmdprompt(windows), use code -> pip install browser 
+To install pyautogui on cmdprompt(windows), use code -> pip install pyautogui 
+
+Before running make sure you have logged in to whatsapp web.
+
+To change the delay of sending message from running the code,  change " time.sleep(10)" value of 10
+To change the number of spams you want to commit, change " for i in range(100) " value of 100
+To send a complete word, type the word as    pyautogui.press("Yo")    and in the next line add    pyautogui.press("enter")
+
+Run the code in IDLE and enjoy!!
